@@ -1,0 +1,39 @@
+<template>
+  <div class="about">
+    <Header/>
+    <Home/>
+    <div class="card">
+  <div class="card-body">
+
+
+  </div>
+</div>
+  </div>
+</template>
+
+
+
+
+<script>
+
+import Header from '@/components/Header.vue'
+
+
+export default {
+  name:'About',
+  components:{
+    Header
+    
+  }
+}
+</script>
+
+
+
+
+
+<style scoped>
+
+</style>
+
+
